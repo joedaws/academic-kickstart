@@ -1,7 +1,7 @@
 +++
 # Feature/Skill widget.
 widget = "featurette"  # Do not modify this line!
-date = 2017-09-20T00:00:00
+date = 2018-11-02T00:00:00
 
 # Activate this widget? true/false
 active = true
@@ -22,21 +22,21 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "r-project"
+  icon = "python"
   icon_pack = "fab"
-  name = "R"
+  name = "python"
+  description = "80%"
+
+[[feature]]
+  icon = "medium-m"
+  icon_pack = "fab"
+  name = "MatLab"
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "keyboard"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "C Programming"
+  description = "50%"  
 
 +++

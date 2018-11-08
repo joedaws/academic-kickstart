@@ -10,31 +10,32 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Applied Mathematics",
+    "Approximation Theory",
+    "Image Processing",
+	"Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MS in Mathematics"
+  institution = "University of Tennessee"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BS in Mathematics"
+  institution = "University of Tennessee"
+  year = 2013
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Joseph Daws is a graduate research assistant in the department of mathematics 
+at the University of Tennessee Knoxville working with 
+Professor <a href="https://www.csm.ornl.gov/~cgwebster/">Clayton Webster</a>. 
+Joseph is interested in problems at the intersection of approximation theory, 
+inverse problems, image processing, optimization, and machine learning. 
+His most recent work is concerned with studying how regularization 
+affects the performance of the optimization problems at the heart
+of machine learnign and image processing.
