@@ -62,16 +62,16 @@ $\ell\_1$-minimization from a random sample of $8\%$ of the pixels.
 The original image is a $972 \times 1296$ pixel image. We used the 
 [Daubechies 3](https://wikipedia.org/wiki/daubechies_wavelet) _db3_ basis.
 
-![original flamingos](_fig_flamingos_orig.png)
-![unweighted flamingos](_fig_flamingos_unweighted_8p.png) 
-![weighted flamingos](_fig_flamingos_weighted_8p.png)
+![original flamingos](fig_flamingos_orig.png)
+![unweighted flamingos](fig_flamingos_unweighted_8p.png) 
+![weighted flamingos](fig_flamingos_weighted_8p.png)
 
 ## Image De-noising
 
 The weighted $\ell\_1$-minimization problem can also be used to de-noise an image:
 
-![original lighthouse](_fig_lighthouse_noisy.png)
-![unweighted lighthouse](_fig_lighthouse_unweighted_denoised.png)
-![weighted lighthouse](_fig_lighthouse_weighted_denoised.png)
+![original lighthouse](fig_lighthouse_noisy.png)
+![unweighted lighthouse](fig_lighthouse_unweighted_denoised.png)
+![weighted lighthouse](fig_lighthouse_weighted_denoised.png)
 
 
