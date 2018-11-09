@@ -38,4 +38,4 @@ Joseph is interested in problems at the intersection of approximation theory,
 inverse problems, image processing, optimization, and machine learning. 
 His most recent work is concerned with studying how regularization 
 affects the performance of the optimization problems at the heart
-of machine learnign and image processing.
+of machine learning and image processing.
