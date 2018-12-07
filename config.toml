@@ -59,7 +59,7 @@ enableGitInfo = false
   organizations = [ { name = "University of Tennessee Knoxville", url = "https://www.math.utk.edu" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "joe_pic_grad.JPG"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "joe_pic_grad.JPG"  # Specify an avatar image(in `static/img/` folder)or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "jdaws@tennessee.edu"
@@ -106,7 +106,7 @@ enableGitInfo = false
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = "Joseph Daws is a Graduate Research Assistant in Mathematics. He is an applied mathematician working at the intersection of theory and large scale problems."
+  description = "Joseph Daws is a Graduate Research Assistant in Mathematics. He is an applied mathematician interested in developing theory which leads to accurate and effecient solutions to large scale problems."
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = "joe_pic_grad.JPG"
