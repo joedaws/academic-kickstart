@@ -34,7 +34,7 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Graduate Research Assisntant"
+  title = "Graduate Research Assistant"
   company = "University of Tennessee Knoxville"
   company_url = ""
   location = "Tennessee"
