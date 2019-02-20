@@ -22,7 +22,7 @@ categories = ["Neural-Networks"]
   focal_point = "Center"
 +++
 
-# Towards a mathematical understanding of using neural networks for function approximation.
+## Towards a mathematical understanding of using neural networks for function approximation.
 
 > An artificial neural network (ANN) is a computational framework 
 inspired by the interactions of neurons in the brain. 
