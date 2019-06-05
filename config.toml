@@ -243,6 +243,11 @@ enableGitInfo = false
   #   cv, google-scholar, arxiv, orcid, researchgate, mendeley
   #
   #   Full list: https://jpswalsh.github.io/academicons/
+  
+  [[params.social]]
+    icon = "linkedin"
+	icon_pack = "fab"
+	link = "https://www.linkedin.com/in/joseph-daws-1a8b33183/"
 
   [[params.social]]
     icon = "envelope"
@@ -297,14 +302,14 @@ enableGitInfo = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[menu.main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 7
+[[menu.main]]
+  name = "CV"
+  url = "files/daws_cv_6_19.pdf"
+  weight = 6
 
 # Search.
 [params.search]
