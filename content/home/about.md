@@ -12,11 +12,17 @@ weight = 5
   interests = [
     "Applied Mathematics",
     "Approximation Theory",
-    "Image Processing",
-	"Machine Learning"
+	"Optimization",
+	"Machine Learning",
+    "Image Processing"
   ]
 
 # List your qualifications (such as academic degrees).
+[[education.courses]]
+  course = "PhD in Mathematics"
+  institution = "University of Tennessee"
+  year = 2020
+
 [[education.courses]]
   course = "MS in Mathematics"
   institution = "University of Tennessee"
@@ -31,11 +37,12 @@ weight = 5
 
 # Biography
 
-Joseph Daws is a graduate research assistant in the department of mathematics 
+I am a graduate research assistant in the department of mathematics 
 at the University of Tennessee Knoxville working with 
-Professor <a href="https://www.csm.ornl.gov/~cgwebster/">Clayton Webster</a>. 
-Joseph is interested in problems at the intersection of approximation theory, 
-inverse problems, image processing, optimization, and machine learning. 
-His most recent work is concerned with studying how regularization 
-affects the performance of the optimization problems at the heart
-of machine learning and image processing.
+Professor <a href="https://www.csm.ornl.gov/~cgwebster/">Clayton Webster</a>.
+My research interests are motivated by finding connections between challenging 
+real-world problems and rigorous theory. 
+I believe finding solutions rooted in theory leads to precise answers to difficult 
+questions and understanding techniques used in practice leads to theoretical insight.
+
+

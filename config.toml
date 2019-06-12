@@ -13,7 +13,7 @@ title = "Joseph Daws"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "academic"
 enableEmoji = true
@@ -62,7 +62,7 @@ enableGitInfo = false
   avatar = "joe_new_pic.png"  # Specify an avatar image(in `static/img/` folder)or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "jdaws@tennessee.edu"
+  email = "jdaws@vols.utk.edu"
   address = "Ayres Hall 234, University of Tennessee Knoxville, Tennessee, 37996, USA"
   office_hours = ""
   phone = ""
